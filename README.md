@@ -60,9 +60,3 @@ Training artifacts are written to `artifacts/` and are intentionally ignored by 
 ## Suggested GitHub description
 
 > Reproducible study of Russian LLM pretraining from scratch and supervised fine-tuning of Qwen2.5-0.5B, with explicit data provenance, held-out loss monitoring, and qualitative generation analysis.
-
-## References
-
-[1]: https://github.com/JoannaBy/RussianNovels "JoannaBy/RussianNovels — Russian novels dataset"
-[2]: https://huggingface.co/datasets/d0rj/alpaca-cleaned-ru "d0rj/alpaca-cleaned-ru dataset card"
-[3]: https://huggingface.co/Qwen/Qwen2.5-0.5B "Qwen/Qwen2.5-0.5B model card"
