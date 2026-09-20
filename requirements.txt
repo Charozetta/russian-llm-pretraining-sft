@@ -1,0 +1,11 @@
+torch>=2.2
+transformers>=4.45
+datasets>=2.20
+tokenizers>=0.20
+trl>=0.12
+accelerate>=0.34
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+sentencepiece>=0.2
+jupyterlab>=4.2
